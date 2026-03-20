@@ -8,42 +8,78 @@ The **CUNY AI Lab** is a faculty and staff-led incubator for experimentation wit
 
 ## Workshop Collection
 
-### [Critical Play](./critical-play/)
+### Vibe Coding Workshop Series
+
+#### [Foundations: Coding with Generative AI](./gen-dev-foundations/)
+Core concepts for AI-assisted development, including LLM fundamentals, VS Code and command line setup, Git/GitHub workflows, and Gemini CLI installation.
+
+- **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/gen-dev-foundations/) with live coding demos
+- **Format:** 90-minute hands-on workshop (CAIL Spotlight #1)
+- **Originally conducted:** CUNY Graduate Center, Spring 2026
+
+#### [Vibe-Coding Prototypes](./vibe-coding-prototypes/)
+Building and deploying web applications with AI coding agents. Participants use Gemini CLI to plan, build, customize, and publish a focus timer app to GitHub Pages.
+
+- **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/vibe-coding-prototypes/) with Gemini CLI
+- **Format:** 90-minute hands-on workshop (CAIL Spotlight #2)
+- **Originally conducted:** CUNY Graduate Center, March 10, 2026
+
+### Using the CAIL Sandbox in the Classroom
+
+#### [Composing System Prompts](./system-prompting/)
+How to craft effective system prompts to shape AI behavior for classroom use cases and custom assistants. Three progressive examples across composition, history, and literary analysis.
+
+- **Technology:** [Custom slide deck](https://cuny-ai-lab.github.io/system-prompting/) with copy-able templates
+- **Format:** 90-minute interactive workshop (Week 1 of 3-week series)
+- **Originally conducted:** CUNY AI Lab, March 16, 2026
+
+### Standalone Workshops
+
+#### [Creative Coding with Generative AI](./creative-coding/)
+An introduction to creative coding with AI, bridging the history of computer art (Bell Labs, Vera Molnar) with browser-based generative workflows using the CUNY AI Lab Sandbox.
+
+- **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/creative-coding) with CUNY AI Lab Sandbox
+- **Format:** 90-minute interactive workshop
+- **Originally conducted:** Interactive Technology and Pedagogy Certificate Program, February 19, 2026
+
+#### [Critical Play](./critical-play/)
 Exploring how game mechanics can reveal AI limitations through playful interactions. Participants design games that expose AI behaviors including confabulation, reasoning failures, and context limitations.
 
-- **Technology:** Reveal.js presentation with custom JavaScript visualizations
+- **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/critical-play) with custom JavaScript visualizations
 - **Format:** 90-minute interactive workshop
 - **Originally conducted:** Interactive Technology and Pedagogy Certificate Program, October 16, 2024
 
-### [Disciplinary Thinking](./disciplinary-thinking/)
-Addresses critical issues in data privacy, intellectual property, and algorithmic bias to help instructors select appropriate AI tools for their discipline and develop students' AI literacy skills.
+#### [Prompting in Praxis](./prompting-in-praxis/)
+Interactive workshop on language model concepts and prompting techniques using the CUNY Open WebUI experimental pilot. Participants develop hands-on skills for historical research, document analysis, and critical evaluation of AI-generated content.
 
-- **Technology:** Workshop materials (slides, outlines, worksheets)
-- **Format:** 90-minute Hyflex workshop
-- **Originally conducted:** Teaching and Learning Center, March 4, 2024
+- **Technology:** CUNY Open WebUI platform for live model comparison
+- **Format:** 90-minute interactive workshop with hands-on exercises
+- **Originally conducted:** Teaching and Learning Center Block Party, May 10, 2024
 
-### [AI Basics and Policy Statements](./ai-policy-basics/)
+#### [AI Basics and Policy Statements](./ai-policy-basics/)
 Provides a brief introduction to generative AI and helps instructors craft thoughtful classroom policies through interactive visualizations, student testimonials, and collaborative policy drafting.
 
 - **Technology:** Workshop materials (slides, outlines, worksheets)
 - **Format:** 90-minute interactive workshop
 - **Originally conducted:** Teaching and Learning Center, October 1, 2025
 
-### [Prompting in Praxis](./prompting-in-praxis/)
-Interactive workshop on language model concepts and prompting techniques using the CUNY Open WebUI experimental pilot. Participants develop hands-on skills for historical research, document analysis, and critical evaluation of AI-generated content.
+#### [Disciplinary Thinking](./disciplinary-thinking/)
+Addresses critical issues in data privacy, intellectual property, and algorithmic bias to help instructors select appropriate AI tools for their discipline and develop students' AI literacy skills.
 
-- **Technology:** CUNY Open WebUI platform for live model comparison
-- **Format:** 90-minute interactive workshop with hands-on exercises
-- **Originally conducted**: Teaching and Learning Center Block Party, May 10, 2024
+- **Technology:** Workshop materials (slides, outlines, worksheets)
+- **Format:** 90-minute Hyflex workshop
+- **Originally conducted:** Teaching and Learning Center, March 4, 2024
 
-### [Game-Based Learning](./game-based-learning/)
+#### [Game-Based Learning](./game-based-learning/)
 Introduces game-based strategies for developing students' AI literacy through interactive storytelling, collaborative problem solving, and prompt engineering via choose-your-own-adventure games.
 
 - **Technology:** Workshop materials (slides, outlines, companion resources)
 - **Format:** 90-minute in-person workshop
 - **Originally conducted:** Teaching and Learning Center, October 16, 2024
 
-### [Teach@CUNY AI Toolkit](./tcuny-ai-toolkit/)
+### Online Resources
+
+#### [Teach@CUNY AI Toolkit](./tcuny-ai-toolkit/)
 Comprehensive resource developed by the Teaching and Learning Center to help CUNY instructors navigate and critically engage with artificial intelligence in educational settings through five core provocations and practical guidance.
 
 - **Platform:** [aitoolkit.commons.gc.cuny.edu](https://aitoolkit.commons.gc.cuny.edu/)
