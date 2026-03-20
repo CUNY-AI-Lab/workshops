@@ -38,7 +38,7 @@ How to craft effective system prompts to shape AI behavior for classroom use cas
 #### [Creative Coding with Generative AI](./creative-coding/)
 An introduction to creative coding with AI, bridging the history of computer art (Bell Labs, Vera Molnar) with browser-based generative workflows using the CUNY AI Lab Sandbox.
 
-- **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/creative-coding) with CUNY AI Lab Sandbox
+- **Technology:** [Custom slide deck](https://cuny-ai-lab.github.io/creative-coding) with CUNY AI Lab Sandbox
 - **Format:** 90-minute interactive workshop
 - **Originally conducted:** Interactive Technology and Pedagogy Certificate Program, February 19, 2026
 

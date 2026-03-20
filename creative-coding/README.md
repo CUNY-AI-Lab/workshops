@@ -56,7 +56,7 @@ Through a progression from one-shot generation to iterative refinement to constr
 
 ### Built With
 
-- [Reveal.js](https://revealjs.com/) - HTML presentation framework
+- Custom HTML/CSS/JS slide deck
 - CUNY AI Lab Sandbox (Open WebUI) for live demos
 - No build process required - runs directly in browser
 
