@@ -3,7 +3,7 @@
 ## Workshop Information
 
 **Title:** Critical Play with Large Language Models  
-**Date:** Thursday, October 16, 2024  
+**Date:** Thursday, October 16, 2025  
 **Duration:** 90 minutes  
 **Format:** Interactive workshop with hands-on activities  
 **Facilitator:** Zach Muhlbauer (Teaching and Learning Center | Interactive Technology & Pedagogy Lab)

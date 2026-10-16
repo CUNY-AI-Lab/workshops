@@ -4,7 +4,7 @@ _A CUNY AI Lab workshop exploring how game mechanics can reveal AI limitations t
 
 Designed for graduate students and instructors interested in critical approaches to AI pedagogy. This workshop demonstrates how game-based interactions can serve as analytical scaffolds for understanding and critiquing large language model capabilities and limitations.
 
-**Workshop Date:** Thursday, October 16, 2024
+**Workshop Date:** Thursday, October 16, 2025
 **Duration:** 90 minutes
 **Format:** Interactive workshop with hands-on activities
 **Facilitator:** Zach Muhlbauer (Teaching and Learning Center | Interactive Technology & Pedagogy Lab)

@@ -33,8 +33,8 @@ The workshop contrasts weak, mediocre, and strong system prompts across three di
 | Week | Date | Topic |
 |------|------|-------|
 | **Week 1** | March 16 | **Composing System Prompts** (this workshop) |
-| Week 2 | March 23 | Curating Knowledge Collections |
-| Week 3 | March 30 | Customizing Skills & Tools |
+| Week 2 | March 23 | [Curating Knowledge Collections](../knowledge-collections/) |
+| Week 3 | March 30 | [Customizing Skills & Tools](../skills-tools/) |
 
 ## Workshop Structure
 
