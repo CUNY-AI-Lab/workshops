@@ -10,7 +10,7 @@ The Fall 2026 series reworks the Spring 2026 three-week sequence ([Composing Sys
 **Developed by:** Zach Muhlbauer (CUNY AI Lab)
 **Facilitators:** Zach Muhlbauer (all sessions) and Meha Gupta (sessions 2 and 3)
 
-_This series was originally conducted at the CUNY Graduate Center in Fall 2026, with a follow-up coworking session on October 29, 2026._
+_This series was originally conducted at the CUNY Graduate Center in Fall 2026, alongside the [Vibe Coding Series](../fall-2026-vibe-coding/), with shared drop-in coworking sessions on October 29, November 17, and December 3, 2026._
 
 ## About the CUNY AI Lab
 
@@ -25,6 +25,8 @@ This series is part of the CUNY AI Lab's commitment to developing critical AI li
 | 1 | **Composing System Prompts** | Thursday, September 17, 2026 | Zach Muhlbauer | [composing-system-prompts/](./composing-system-prompts/) |
 | 2 | **Curating Knowledge Collections** | Thursday, October 1, 2026 | Zach Muhlbauer, Meha Gupta | [curating-knowledge-collections/](./curating-knowledge-collections/) |
 | 3 | **Configuring Skills and Tools** | Thursday, October 15, 2026 | Zach Muhlbauer, Meha Gupta | [configuring-skills-tools/](./configuring-skills-tools/) |
+
+The sessions were announced in the Fall 2026 flyer and the [GCDI Orientation](../gcdi-orientation/) as Getting Started with the CUNY AI Lab Sandbox, Building Custom Models with Knowledge Collections, and Extending Custom Models with Skills & Tools.
 
 ### Workshop Roadmap
 

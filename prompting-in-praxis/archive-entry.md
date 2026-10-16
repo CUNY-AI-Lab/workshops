@@ -3,6 +3,7 @@
 ## Workshop Overview
 
 **Title:** Prompting in Praxis  
+**Date:** Friday, May 9, 2025 (Teaching and Learning Center showcase)  
 **Duration:** 90 minutes  
 **Format:** Interactive workshop with hands-on Open WebUI exercises  
 **Platform:** [CUNY Open WebUI Experimental Pilot](https://openwebui.cuny.qzz.io/)
