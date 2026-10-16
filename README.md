@@ -13,6 +13,7 @@ The Lab grew out of four Graduate Center units that each took up AI in their own
 | Date | Workshop or presentation | Series or venue | Facilitators | Entry |
 |------|--------------------------|-----------------|--------------|-------|
 | October 15, 2026 | Configuring Skills and Tools | Sandbox Workshop Series, session 3 | Zach Muhlbauer, Meha Gupta | [sandbox-series/configuring-skills-tools](./sandbox-series/configuring-skills-tools/) |
+| October 7–10, 2026 | Techno-Ambivalence and the Ladder of Ambivalence (panel: The Datafied University, 2) | 4S 2026, Toronto | Zach Muhlbauer, Ian G. Williams | [4s-2026-datafied-university](./4s-2026-datafied-university/) |
 | October 14, 2026 | CUNY AI Lab: Infrastructure, Access, and Outreach | Session for CUNY Central and guests | Luke Waltzer, Matthew K. Gold, Stefano Morello, Stephen Zweibel, Zach Muhlbauer | [cail-oct-14](./cail-oct-14/) |
 | October 13, 2026 | Vibe Coding III: Bring Your Own Project Clinic | Vibe Coding Series | Stefano Morello, Stephen Zweibel | [fall-2026-vibe-coding](./fall-2026-vibe-coding/) (no deck) |
 | October 1, 2026 | Curating Knowledge Collections | Sandbox Workshop Series, session 2 | Zach Muhlbauer, Meha Gupta | [sandbox-series/curating-knowledge-collections](./sandbox-series/curating-knowledge-collections/) |
@@ -68,6 +69,14 @@ A presentation and discussion on how the Lab operates: its guiding principles in
 - **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/cail-oct-14/) with speaker notes, inline SVG diagrams, and an embedded demo
 - **Format:** About 25 minutes of slides in four sections and 35 minutes of discussion
 - **Originally conducted:** CUNY Graduate Center, October 14, 2026
+
+#### [Techno-Ambivalence and the Ladder of Ambivalence](./4s-2026-datafied-university/)
+
+A paper in the open panel "The Datafied University" (part 2) at the Society for Social Studies of Science meeting: techno-ambivalence as a condition to work with, and a ladder of ambivalence that runs from individuals to communities of practice to the Lab's infrastructure, where mixed commitments are built into the system rather than left to each user.
+
+- **Technology:** Conference paper (title, abstract, and slides to be added)
+- **Format:** Multi-paper panel
+- **Originally conducted:** 4S 2026, Sheraton Centre Toronto, October 7–10, 2026
 
 #### [The Afterlives of the September 11 Digital Archive](./sept11da-slides/)
 
