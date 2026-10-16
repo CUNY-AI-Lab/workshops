@@ -10,7 +10,7 @@ This workshop is the second in the CAIL Spotlight series. Participants use Gemin
 **Facilitators:** Stefano Morello, Zach Muhlbauer, Parisa Setayesh, and Stephen Zweibel (CUNY AI Lab)
 **Prerequisite:** Foundations workshop (#1), or prior familiarity with the command line and Git/GitHub
 
-_This workshop was originally conducted as part of the CAIL Spotlight series at the CUNY Graduate Center._
+_This workshop was originally conducted as part of the CAIL Spotlight series at the New Media Lab, CUNY Graduate Center, and was revised for Fall 2026 as [Vibe Coding II: Building a Prototype](../fall-2026-vibe-coding/vibe-coding-ii-building-a-prototype/)._
 
 ## About the CUNY AI Lab
 

@@ -24,7 +24,7 @@ All materials are licensed under a **Creative Commons Attribution-ShareAlike (CC
 
 This archive contains workshop plans, slide content, and a companion worksheet.
 
-Materials: [GitHub Repository](https://github.com/CUNY-AI-Lab/skills-tools) | [Original slide copy](https://github.com/CUNY-AI-Lab/sandbox-series/blob/main/review/skills/before.md)
+Materials: [Live Slides](https://cuny-ai-lab.github.io/skills-tools/) | [GitHub Repository](https://github.com/CUNY-AI-Lab/skills-tools) | [Original slide copy](https://github.com/CUNY-AI-Lab/sandbox-series/blob/main/review/skills/before.md)
 
 ## Learning Objectives
 

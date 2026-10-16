@@ -3,7 +3,7 @@
 ## Workshop Overview
 
 **Title:** Foundations: Coding with Generative AI
-**Date:** Spring 2026
+**Date:** Tuesday, March 3, 2026
 **Duration:** 90 minutes
 **Format:** CAIL Spotlight Workshop #1
 **Facilitators:** Stefano Morello, Zach Muhlbauer, Parisa Setayesh, and Stephen Zweibel (CUNY AI Lab)

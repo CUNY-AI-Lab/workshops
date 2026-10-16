@@ -4,12 +4,12 @@ _A CUNY AI Lab workshop introducing AI-assisted development through core concept
 
 This workshop is the first in the CAIL Spotlight series, designed to give participants a working development environment and a conceptual grounding in how large language models generate code. The session covers LLM concepts, VS Code and command line basics, Git/GitHub workflows, and Gemini CLI setup.
 
-**Workshop Date:** Spring 2026
+**Workshop Date:** Tuesday, March 3, 2026
 **Duration:** 90 minutes
 **Format:** CAIL Spotlight Workshop #1
 **Facilitators:** Stefano Morello, Zach Muhlbauer, Parisa Setayesh, and Stephen Zweibel (CUNY AI Lab)
 
-_This workshop was originally conducted as part of the CAIL Spotlight series at the CUNY Graduate Center._
+_This workshop was originally conducted as part of the CAIL Spotlight series at the New Media Lab, CUNY Graduate Center, and was revised for Fall 2026 as [Vibe Coding I: Foundations](../fall-2026-vibe-coding/vibe-coding-i-foundations/)._
 
 ## About the CUNY AI Lab
 

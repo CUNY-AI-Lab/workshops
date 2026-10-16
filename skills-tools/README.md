@@ -72,6 +72,7 @@ Anatomy of a skill: **Trigger** (when it activates), **Procedure** (numbered ste
 
 ### Slide Deck
 
+- **[Live Slides](https://cuny-ai-lab.github.io/skills-tools/)** - Interactive slideshow (28 slides)
 - **[GitHub Repository](https://github.com/CUNY-AI-Lab/skills-tools)** - Source code and materials
 - **[Original slide copy](https://github.com/CUNY-AI-Lab/sandbox-series/blob/main/review/skills/before.md)** - The complete text of the March 30 deck, preserved in the Fall 2026 series repository as the baseline for its revision
 
