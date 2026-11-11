@@ -139,6 +139,7 @@ Core concepts for AI-assisted development, including LLM fundamentals, VS Code a
 - **Technology:** [Custom slide deck](https://cuny-ai-lab.github.io/gen-dev-foundations/) with live coding demos
 - **Format:** 90-minute hands-on workshop (CAIL Spotlight #1)
 - **Originally conducted:** New Media Lab, CUNY Graduate Center, March 3, 2026
+- **Revised version:** [*Vibe Coding I: Foundations*](https://cuny-ai-lab.github.io/fall-2026-vibe-coding-i/), Vibe Coding Series, Fall 2026
 
 ##### [Vibe-Coding Prototypes](./vibe-coding-prototypes/)
 
@@ -147,6 +148,7 @@ Building and deploying web applications with AI coding agents. Participants use 
 - **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/vibe-coding-prototypes/) with Gemini CLI
 - **Format:** 90-minute hands-on workshop (CAIL Spotlight #2)
 - **Originally conducted:** New Media Lab, CUNY Graduate Center, March 10, 2026
+- **Revised version:** [*Vibe Coding II: Building a Prototype*](https://cuny-ai-lab.github.io/fall-2026-vibe-coding-ii/), Vibe Coding Series, Fall 2026
 
 #### Using the CAIL Sandbox in the Classroom
 
@@ -159,6 +161,7 @@ How to craft effective system prompts to shape AI behavior for classroom use cas
 - **Technology:** [Custom slide deck](https://cuny-ai-lab.github.io/system-prompting/) with copy-able templates
 - **Format:** 90-minute interactive workshop (Week 1 of 3)
 - **Originally conducted:** CUNY AI Lab, March 16, 2026
+- **Revised version:** [*Composing System Prompts*](https://cuny-ai-lab.github.io/sandbox-series/basics/), Sandbox Workshop Series, Fall 2026
 
 ##### [Curating Knowledge Collections](./knowledge-collections/)
 
@@ -167,6 +170,7 @@ How to build and curate the set of course documents a custom model retrieves fro
 - **Technology:** [Custom slide deck](https://cuny-ai-lab.github.io/knowledge-collections/) with copy-able templates and screenshot carousels
 - **Format:** 90-minute interactive workshop (Week 2 of 3)
 - **Originally conducted:** CUNY AI Lab, March 23, 2026
+- **Revised version:** [*Curating Knowledge Collections*](https://cuny-ai-lab.github.io/sandbox-series/knowledge/), Sandbox Workshop Series, Fall 2026
 
 ##### [Customizing Skills & Tools](./skills-tools/)
 
@@ -175,6 +179,7 @@ How to write skills, step-by-step procedures a custom model follows for a specif
 - **Technology:** [Custom slide deck](https://cuny-ai-lab.github.io/skills-tools/) with copy-able templates
 - **Format:** 90-minute interactive workshop (Week 3 of 3)
 - **Originally conducted:** CUNY AI Lab, March 30, 2026
+- **Revised version:** [*Configuring Skills and Tools*](https://cuny-ai-lab.github.io/sandbox-series/skills/), Sandbox Workshop Series, Fall 2026
 
 #### [Critical AI Literacy Institute at Brooklyn College](./cali-brooklyn/)
 
@@ -201,6 +206,7 @@ The Lab's first vibe-coding workshop: an introduction to command-line coding age
 - **Technology:** [Reveal.js slide deck](https://cuny-ai-lab.github.io/Vibe-Coding-Workshop/) with Site Studio and Gemini CLI
 - **Format:** Hands-on workshop with a 15–20 minute build
 - **Originally conducted:** New Media Lab, CUNY Graduate Center, November 18, 2025
+- **Revised version:** [*Vibe Coding I*](https://cuny-ai-lab.github.io/fall-2026-vibe-coding-i/) and [*Vibe Coding II*](https://cuny-ai-lab.github.io/fall-2026-vibe-coding-ii/), Vibe Coding Series, Fall 2026
 
 #### [Critical Play with Large Language Models](./critical-play/)
 
@@ -279,6 +285,7 @@ Operational instructions for using command-line coding agents: terminal basics, 
 
 - **Platform:** [cuny-ai-lab.github.io/vibe-coding-how-to](https://cuny-ai-lab.github.io/vibe-coding-how-to/)
 - **Format:** Reveal.js guide
+- **Revised version:** [*Vibe Coding I*](https://cuny-ai-lab.github.io/fall-2026-vibe-coding-i/) and [*Vibe Coding II*](https://cuny-ai-lab.github.io/fall-2026-vibe-coding-ii/), Vibe Coding Series, Fall 2026
 
 #### [CUNY AI Lab Links](https://cuny-ai-lab.github.io/links/)
 
