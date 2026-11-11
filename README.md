@@ -305,7 +305,15 @@ All Word documents have been converted to Markdown for better version control, a
 
 ## License
 
-All workshop materials are licensed under a **Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0 International Public License** unless otherwise noted.
+Copyright © 2025–2026 CUNY AI Lab, The Graduate Center, City University of New York.
+
+Except where otherwise noted, the contents of this repository, including text, slides, images, and example code, are licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) (CC BY-NC 4.0). You may share and adapt them for non-commercial purposes if you credit the CUNY AI Lab, link to the license, and indicate any changes.
+
+Suggested attribution: “Workshops introducing educators to teaching and learning w/ generative AI” by the CUNY AI Lab, CUNY Graduate Center, licensed under CC BY-NC 4.0.
+
+This license applies to every version of this repository, including earlier commits. Copies obtained before November 10, 2026 under the Creative Commons Attribution-ShareAlike 4.0 International License may still be used under that license, because earlier license grants cannot be withdrawn. Exceptions: the `critical-play/` folder is licensed under the GNU General Public License v3.0 (see `critical-play/LICENSE`). The license does not cover third-party material such as images, screenshots, quoted readings, and embedded media, which remain subject to their owners' terms, or the names and logos of CUNY, the CUNY Graduate Center, and the CUNY AI Lab.
+
+For commercial use or other permissions, contact [ailab@gc.cuny.edu](mailto:ailab@gc.cuny.edu). See CAIL's [licensing page](https://ailab.gc.cuny.edu/license/).
 
 ## Contact
 
