@@ -2,40 +2,8 @@ import React, { useState } from 'react';
 import KeyTermsFooter from '../KeyTermsFooter';
 
 const OpenRouterStep = () => {
-  const [apiVisible, setApiVisible] = useState(false);
-  const [password, setPassword] = useState('');
-  const [showPasswordField, setShowPasswordField] = useState(false);
-  const [passwordError, setPasswordError] = useState(false);
   const [gifLoaded, setGifLoaded] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
-
-  const togglePasswordField = () => {
-    setShowPasswordField(!showPasswordField);
-    setPasswordError(false);
-    setPassword('');
-  };
-
-  const handlePasswordChange = (e) => {
-    setPassword(e.target.value);
-    setPasswordError(false);
-  };
-
-  const verifyPassword = () => {
-    if (password === 'tlc') {
-      setApiVisible(true);
-      setPasswordError(false);
-    } else {
-      setPasswordError(true);
-      setApiVisible(false);
-    }
-  };
-
-  const hideApiKey = () => {
-    setApiVisible(false);
-    setShowPasswordField(false);
-    setPassword('');
-    setPasswordError(false);
-  };
 
   return (
     <div>
@@ -89,68 +57,7 @@ const OpenRouterStep = () => {
             <ol className="list-decimal list-outside ml-6 space-y-3 mb-4 text-gray-700" start="4">
               <li className="pb-2"><strong>Add Name</strong>: OpenRouter</li>
               <li className="pb-2"><strong>Add API Host</strong>: https://openrouter.ai/api/v1/chat/completions</li>
-              <li className="pb-2"><strong>Add API Key</strong>: 
-                {!showPasswordField && !apiVisible && (
-                  <span 
-                    className="cursor-pointer text-blue-600 hover:underline ml-2" 
-                    onClick={togglePasswordField}
-                  >
-                    Verify access
-                  </span>
-                )}
-                
-                {showPasswordField && !apiVisible && (
-                  <div className="mt-2 flex flex-col">
-                    <div className="flex items-center">
-                      <input 
-                        type="password"
-                        value={password}
-                        onChange={handlePasswordChange}
-                        placeholder="Enter password"
-                        className="border border-gray-300 rounded px-2 py-1 text-sm mr-2"
-                        onKeyPress={(e) => {
-                          if (e.key === 'Enter') {
-                            verifyPassword();
-                          }
-                        }}
-                      />
-                      <button 
-                        onClick={verifyPassword}
-                        className="bg-blue-600 text-white text-sm px-3 py-1 rounded hover:bg-blue-700"
-                      >
-                        Submit
-                      </button>
-                      <button 
-                        onClick={togglePasswordField}
-                        className="ml-2 text-gray-600 text-sm px-2 py-1 rounded hover:bg-gray-100"
-                      >
-                        Cancel
-                      </button>
-                    </div>
-                    {passwordError && (
-                      <div className="text-red-600 text-sm mt-1">
-                        Incorrect password. Please try again.
-                      </div>
-                    )}
-                  </div>
-                )}
-                
-                {apiVisible && (
-                  <div className="mt-2">
-                    <div className="flex items-center">
-                      <span className="text-green-600 mr-2">✓</span>
-                      <span className="font-mono text-sm bg-gray-100 px-2 py-1 rounded">
-                        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
-                      </span>
-                      <button 
-                        onClick={hideApiKey}
-                        className="ml-2 text-gray-600 text-sm px-2 py-1 rounded hover:bg-gray-100"
-                      >
-                        Hide
-                      </button>
-                    </div>
-                  </div>
-                )}
+              <li className="pb-2"><strong>Add API Key</strong>: paste your own OpenRouter key (create one at https://openrouter.ai/keys)
               </li>
               <li className="pb-2"><strong>Add Model</strong>: Choose or paste an ID (see below)</li>
               <li className="pb-2"><strong>Adjust Max Tokens in Context</strong>: Optional cap. Prevents runaway length and saves credits</li>
