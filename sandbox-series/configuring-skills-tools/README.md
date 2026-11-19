@@ -57,7 +57,7 @@ A **skill** contains plain-text instructions for a repeatable task: a trigger, a
 - **[STEM Adventure Games](https://chat.ailab.gc.cuny.edu/?model=stem-adventure-games)** - The model participants continue or clone
 - **[CAIL Workspace Support](https://chat.ailab.gc.cuny.edu/?model=cail-workspace-support)** - Support model for revising or creating skills and tools
 - **Adventure Panel** (tool) and **Adventure Panel Play** (skill) - Shared workshop resources on the Sandbox; the tool displays each scene and sends a selected choice to chat, the skill applies the system prompt's rules on every turn
-- **[Sandbox Tools & Skills documentation](https://ailab.gc.cuny.edu/sandbox-docs/tools-skills/)** and **[Open WebUI Skills](https://docs.openwebui.com/features/workspace/skills/)**
+- **[Sandbox Tools & Skills documentation](https://ailab.gc.cuny.edu/docs/sandbox/tools-skills/)** and **[Open WebUI Skills](https://docs.openwebui.com/features/workspace/skills/)**
 
 ## Technical Details
 

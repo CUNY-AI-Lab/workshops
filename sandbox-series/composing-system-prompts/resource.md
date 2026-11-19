@@ -127,7 +127,7 @@ Keep your draft. Choose the source documents you want your model to draw on for 
 
 ## Resources
 
-- [Sandbox documentation](https://ailab.gc.cuny.edu/sandbox-docs/) (Getting Started, Basic Concepts, Custom Models)
+- [Sandbox documentation](https://ailab.gc.cuny.edu/docs/sandbox/) (Getting Started, Basic Concepts, Custom Models)
 - [Open WebUI Models](https://docs.openwebui.com/features/workspace/models/)
 - [Model Registry](https://ailab.gc.cuny.edu/models/) and [monthly usage](https://tools.ailab.gc.cuny.edu/model-access)
 - [Full workshop copy](https://cuny-ai-lab.github.io/sandbox-series/basics/workshop-copy.html)

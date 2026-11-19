@@ -75,7 +75,7 @@ Two comparison prompts open the session. The first, a Winograd schema sentence a
 ## Research & Citations
 
 - Levesque, H., Davis, E., and Morgenstern, L. (2012). "The Winograd Schema Challenge." _Principles of Knowledge Representation and Reasoning_.
-- CUNY AI Lab. [Sandbox documentation](https://ailab.gc.cuny.edu/sandbox-docs/): Basic Concepts, Custom Models, Getting Started.
+- CUNY AI Lab. [Sandbox documentation](https://ailab.gc.cuny.edu/docs/sandbox/): Basic Concepts, Custom Models, Getting Started.
 - Open WebUI. [Models](https://docs.openwebui.com/features/workspace/models/).
 
 ## License

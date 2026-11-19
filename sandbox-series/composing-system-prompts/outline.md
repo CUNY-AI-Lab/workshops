@@ -151,7 +151,7 @@ Select **Workspace → Models → Create**. Name your configuration, select **Ba
 
 ### Workshop Resources
 
-Keep your draft and choose source documents for the next workshop. Resources: the full workshop copy, [Sandbox documentation](https://ailab.gc.cuny.edu/sandbox-docs/), [Open WebUI Models](https://docs.openwebui.com/features/workspace/models/), the [Model Registry](https://ailab.gc.cuny.edu/models/), [monthly usage](https://tools.ailab.gc.cuny.edu/model-access), and [AI Lab guides](https://ailab.gc.cuny.edu/guides/).
+Keep your draft and choose source documents for the next workshop. Resources: the full workshop copy, [Sandbox documentation](https://ailab.gc.cuny.edu/docs/sandbox/), [Open WebUI Models](https://docs.openwebui.com/features/workspace/models/), the [Model Registry](https://ailab.gc.cuny.edu/models/), [monthly usage](https://tools.ailab.gc.cuny.edu/model-access), and [AI Lab guides](https://ailab.gc.cuny.edu/guides/).
 
 ## Materials Needed
 
