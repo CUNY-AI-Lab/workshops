@@ -53,8 +53,8 @@ A knowledge collection holds documents a custom model can search. RAG retrieves 
 
 - **[CUNY AI Lab Sandbox](https://chat.ailab.gc.cuny.edu/)** - Workspace → Models and Workspace → Knowledge
 - **[STEM Adventure Games](https://chat.ailab.gc.cuny.edu/?model=stem-adventure-games)** - The example model participants clone
-- **[Sandbox Knowledge documentation](https://ailab.gc.cuny.edu/sandbox-docs/knowledge-bases/)** and **[Open WebUI Knowledge](https://docs.openwebui.com/features/workspace/knowledge/)**
-- **[Sandbox Roles & Permissions](https://ailab.gc.cuny.edu/sandbox-docs/roles-permissions/)** - Sharing models and collections
+- **[Sandbox Knowledge documentation](https://ailab.gc.cuny.edu/docs/sandbox/knowledge-bases/)** and **[Open WebUI Knowledge](https://docs.openwebui.com/features/workspace/knowledge/)**
+- **[Sandbox Roles & Permissions](https://ailab.gc.cuny.edu/docs/sandbox/roles-permissions/)** - Sharing models and collections
 
 ## Technical Details
 

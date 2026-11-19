@@ -71,6 +71,6 @@ Create the tool or skill, select it on the model card, retest with identical inp
 ## Resources
 
 - [STEM Adventure Games](https://chat.ailab.gc.cuny.edu/?model=stem-adventure-games) and [CAIL Workspace Support](https://chat.ailab.gc.cuny.edu/?model=cail-workspace-support)
-- [Sandbox Tools & Skills documentation](https://ailab.gc.cuny.edu/sandbox-docs/tools-skills/) and [Open WebUI Skills](https://docs.openwebui.com/features/workspace/skills/)
+- [Sandbox Tools & Skills documentation](https://ailab.gc.cuny.edu/docs/sandbox/tools-skills/) and [Open WebUI Skills](https://docs.openwebui.com/features/workspace/skills/)
 - [Hosted evidence](https://cuny-ai-lab.github.io/sandbox-series/skills/hosted-evidence.html) and [tool calling explainer](https://cuny-ai-lab.github.io/sandbox-series/skills/tool-calling.html)
 - Previous sessions: [Composing System Prompts](../composing-system-prompts/) and [Curating Knowledge Collections](../curating-knowledge-collections/)

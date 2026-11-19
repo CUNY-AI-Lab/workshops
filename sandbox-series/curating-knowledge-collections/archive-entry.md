@@ -63,6 +63,6 @@ New chat with the copy; "Which passage supports this scene? Quote it and cite yo
 ## Resources
 
 - [STEM Adventure Games](https://chat.ailab.gc.cuny.edu/?model=stem-adventure-games)
-- [Sandbox Knowledge documentation](https://ailab.gc.cuny.edu/sandbox-docs/knowledge-bases/), [Open WebUI Knowledge](https://docs.openwebui.com/features/workspace/knowledge/), [Roles & Permissions](https://ailab.gc.cuny.edu/sandbox-docs/roles-permissions/)
+- [Sandbox Knowledge documentation](https://ailab.gc.cuny.edu/docs/sandbox/knowledge-bases/), [Open WebUI Knowledge](https://docs.openwebui.com/features/workspace/knowledge/), [Roles & Permissions](https://ailab.gc.cuny.edu/docs/sandbox/roles-permissions/)
 - [Additional knowledge entries](https://cuny-ai-lab.github.io/sandbox-series/WORKSHOP.html#additional-knowledge-entries)
 - Previous session: [Composing System Prompts](../composing-system-prompts/); next session: [Configuring Skills and Tools](../configuring-skills-tools/), October 15, 2026

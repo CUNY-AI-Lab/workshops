@@ -48,7 +48,7 @@ The sessions were announced in the Fall 2026 flyer and the [GCDI Orientation](..
 - **[CUNY AI Lab Sandbox](https://chat.ailab.gc.cuny.edu/)** - Self-hosted chat platform (Open WebUI) with open-weight models behind CUNY Login
 - **[Model Registry](https://ailab.gc.cuny.edu/models/)** - Available models, licenses, abilities, and limits
 - **[Model Access](https://tools.ailab.gc.cuny.edu/model-access)** - Monthly usage and allowance
-- **[Sandbox Documentation](https://ailab.gc.cuny.edu/sandbox-docs/)** - Getting Started, Quick Tour, Models, Knowledge Bases, Tools & Skills, Roles & Permissions
+- **[Sandbox Documentation](https://ailab.gc.cuny.edu/docs/sandbox/)** - Getting Started, Quick Tour, Models, Knowledge Bases, Tools & Skills, Roles & Permissions
 - **[STEM Adventure Games](https://chat.ailab.gc.cuny.edu/?model=stem-adventure-games)** - Teaching example used across the series
 - **[Compare Wikipedia Edits](https://chat.ailab.gc.cuny.edu/?model=compare-wikipedia-revisions)** - Research example used in session 1
 - **[CAIL Workspace Support](https://chat.ailab.gc.cuny.edu/?model=cail-workspace-support)** - Support model used in session 3 to revise or create skills and tools
@@ -82,7 +82,7 @@ The sessions were announced in the Fall 2026 flyer and the [GCDI Orientation](..
 
 ## Sources
 
-Developed by Zach Muhlbauer from the Spring 2026 repositories [system-prompting](https://github.com/CUNY-AI-Lab/system-prompting), [knowledge-collections](https://github.com/CUNY-AI-Lab/knowledge-collections), and [skills-tools](https://github.com/CUNY-AI-Lab/skills-tools). Platform instructions follow the [CUNY AI Lab Sandbox documentation](https://ailab.gc.cuny.edu/sandbox-docs/) and the Open WebUI documentation for [Models](https://docs.openwebui.com/features/workspace/models/), [Knowledge](https://docs.openwebui.com/features/workspace/knowledge/), and [Skills](https://docs.openwebui.com/features/workspace/skills/).
+Developed by Zach Muhlbauer from the Spring 2026 repositories [system-prompting](https://github.com/CUNY-AI-Lab/system-prompting), [knowledge-collections](https://github.com/CUNY-AI-Lab/knowledge-collections), and [skills-tools](https://github.com/CUNY-AI-Lab/skills-tools). Platform instructions follow the [CUNY AI Lab Sandbox documentation](https://ailab.gc.cuny.edu/docs/sandbox/) and the Open WebUI documentation for [Models](https://docs.openwebui.com/features/workspace/models/), [Knowledge](https://docs.openwebui.com/features/workspace/knowledge/), and [Skills](https://docs.openwebui.com/features/workspace/skills/).
 
 ## License
 
