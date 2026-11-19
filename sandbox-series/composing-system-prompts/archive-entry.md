@@ -63,7 +63,7 @@ Draft instructions with Purpose, Procedure, Constraints, and Format. Workspace â
 ## Resources
 
 - [CUNY AI Lab Sandbox](https://chat.ailab.gc.cuny.edu/) and [access application](https://ailab.gc.cuny.edu/request-access/)
-- [Sandbox documentation](https://ailab.gc.cuny.edu/sandbox-docs/)
+- [Sandbox documentation](https://ailab.gc.cuny.edu/docs/sandbox/)
 - [Model Registry](https://ailab.gc.cuny.edu/models/) and [Model Access](https://tools.ailab.gc.cuny.edu/model-access)
 - [STEM Adventure Games](https://chat.ailab.gc.cuny.edu/?model=stem-adventure-games) and [Compare Wikipedia Edits](https://chat.ailab.gc.cuny.edu/?model=compare-wikipedia-revisions)
 - Next session: [Curating Knowledge Collections](../curating-knowledge-collections/), October 1, 2026

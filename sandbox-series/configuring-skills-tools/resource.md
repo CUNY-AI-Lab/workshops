@@ -107,7 +107,7 @@ Save both versions and observed results. Mark unrun checks as unrun.
 ## Resources
 
 - [Participant exercises](https://cuny-ai-lab.github.io/sandbox-series/skills/exercises.html) and [navigation guide](https://cuny-ai-lab.github.io/sandbox-series/skills/navigation.html)
-- [Sandbox Tools & Skills documentation](https://ailab.gc.cuny.edu/sandbox-docs/tools-skills/) and [Open WebUI Skills](https://docs.openwebui.com/features/workspace/skills/)
+- [Sandbox Tools & Skills documentation](https://ailab.gc.cuny.edu/docs/sandbox/tools-skills/) and [Open WebUI Skills](https://docs.openwebui.com/features/workspace/skills/)
 - [Adventure Outcomes instructions](https://cuny-ai-lab.github.io/sandbox-series/examples/adventure-kit/adventure-outcomes.html)
 - [Skill Creator](https://cuny-ai-lab.github.io/sandbox-series/examples/creators/skill-creator-system-prompt.html) and [Tool Creator](https://cuny-ai-lab.github.io/sandbox-series/examples/creators/tool-creator-system-prompt.html) instructions
 - [CUNY AI Lab guides](https://ailab.gc.cuny.edu/guides/) and [events](https://ailab.gc.cuny.edu/events/)
